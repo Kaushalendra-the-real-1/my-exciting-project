@@ -1,0 +1,9 @@
+Title:- (feat)/FEAPP: Product update Notification via WhatsApp
+Description:-
+New option is added to get product updates on WhatsApp also.
+Many Customers were asking for this feature.
+This mode of notification is optional, but if specified, should cause
+notifications to go out both on their emails as well as WhatsApp
+numbers.
+Reviewers:-
+Jhon, David
